@@ -1,0 +1,9 @@
+{
+  "buffer_api_key": "ключ из publish.buffer.com → Settings → API",
+  "r2_account_id": "32 hex-символа из dash.cloudflare.com",
+  "r2_access_key_id": "Access Key ID токена R2",
+  "r2_secret_access_key": "Secret Access Key токена R2",
+  "r2_bucket": "tiktok",
+  "r2_endpoint": "https://<account_id>.eu.r2.cloudflarestorage.com",
+  "r2_public_url": "https://pub-xxxxxxxx.r2.dev"
+}

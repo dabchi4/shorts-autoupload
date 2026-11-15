@@ -1,0 +1,18 @@
+# окружение
+.venv/
+__pycache__/
+*.pyc
+
+# секреты и личные настройки — в репозиторий не попадают
+.env
+channels.ini
+buffer_config.json
+
+# рабочие файлы
+buffer_posts.json
+upload.log
+check_report.txt
+queue/
+done/
+errors/
+debug/

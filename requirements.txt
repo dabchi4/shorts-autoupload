@@ -1,0 +1,4 @@
+patchright>=1.58
+requests
+python-dotenv
+boto3
